@@ -3,4 +3,5 @@ def my_each(collection)
   while n < collection.size
     n += 1  
   end
+  collection
 end
